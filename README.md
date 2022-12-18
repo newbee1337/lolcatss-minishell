@@ -7,12 +7,16 @@ This shell can bypass 403 forbidden on litespeed server etc.
 That's the appearance of this Lolcatss Minishell.<br>
 Very minimalist and modern!
 
+# Auto Root
+<img src="https://i.ibb.co/RTjJtc6/Capture.png" width="700px"><br>
+Lolcatss minishell is a backdoor shell that has auto root feature (can be without reverse shell)
+
 # Feature Lolcatss Minishell
 - Login (base64)<br>
 - Upload, Edit, Rename, Delete, View, Download<br>
 - Information Server (System, Software, PHP Version, PHP Os, Server IP, User, Safe Mode, MySQL, Perl, Python, Wget, Curl, GCC, Pkexec and Disable Functions)<br>
 - Get Adminer<br>
-- Auto Root (Use Pwnkit)<br>
+- Auto Root<br>
 - Command Shell<br>
 - Create Remote Desktop Connections on Windows Server<br>
 - Config Grabber<br>
@@ -23,9 +27,6 @@ Very minimalist and modern!
 - Network (Bind Port and Back Connect/Reverse Shell)<br>
 - Scan Root (Scan Linux PrivEsc)<br>
 - Logout!
-- 
+
 # Disclaimer
 This backdoor shell is made for learning purposes only. All actions taken by shell users that violate the law/harm others are the responsibility of the user himself.
-
-# Donate
-BTC Address: 3Ezf8Cipv7L5NL8uAassiN4qnZWi1yTn9Y
